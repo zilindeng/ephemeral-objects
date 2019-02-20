@@ -1,8 +1,8 @@
 ---
 path: /hello-world
-title: Hello World
+title: Castle of Joy
 date: 02-20-2019
-grid: 1 / 5
+grid: 1 / 2
 thumbnail: /assets/thumbnail.jpg
 description: >-
   Culture, tools, and markets are infrastructure upon which system-level changes
