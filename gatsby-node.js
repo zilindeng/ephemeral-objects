@@ -18,6 +18,9 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               path
               title
+              grid
+              date
+              description
               thumbnail {
                 childImageSharp {
                   fluid(maxWidth: 1080) {

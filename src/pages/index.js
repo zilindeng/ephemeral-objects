@@ -38,6 +38,9 @@ export const pageQuery = graphql`
           frontmatter {
             path
             title
+            grid
+            date
+            description
             thumbnail {
               childImageSharp {
                 fluid(maxWidth: 1080, cropFocus: CENTER) {

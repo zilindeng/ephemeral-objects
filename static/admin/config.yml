@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: zilindeng/gatsby-netlify-boilerplate
+  repo: zilindeng/ephemeral-objects
 
 media_folder: static/assets
 public_folder: /assets
@@ -15,4 +15,7 @@ collections:
     fields:
       - { name: path, label: Path }
       - { name: title, label: Title }
-      - { name: thumbnail, label: Thumbnail, widget: image,}
+      - { name: date, label: Date, widget: date, format: MM—DD—YYYY }
+      - { name: grid, label: Grid, }
+      - { name: thumbnail, label: Thumbnail, widget: image }
+      - { name: description, label: Description, widget: text }

@@ -1,7 +1,7 @@
 module.exports = {
    siteMetadata: {
-      title: 'gatsby-netlify-boilerplate',
-      description: 'a simple boilerplate for starting projects'
+      title: 'Ephemeral Object(s)',
+      description: 'a thesis'
    },
    plugins: [
       `gatsby-plugin-react-helmet`,
