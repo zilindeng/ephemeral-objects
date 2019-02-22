@@ -3,7 +3,7 @@ path: /crystal-fairies
 title: Crystal Fairies
 date: 02—21—2019
 grid: 2 / 3
-thumbnail: /assets/thumbnail.jpg
+thumbnail: /assets/crystal-fairies.jpg
 description: >-
   Fairies and small creatures that hide in our plain sight. They play tricks on
   us when we're not looking. They're very obnoxious, sometimes they send us down
